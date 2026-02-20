@@ -1,6 +1,6 @@
 # veem.nvim
 
-A monochrome Neovim colorscheme with subtle accents, inspired by [lackluster.nvim](https://github.com/slugbyte/lackluster.nvim).
+A monochrome Neovim colorscheme with subtle accents, inspired by [lackluster.nvim](https://github.com/slugbyte/lackluster.nvim). Monotone with branching highlighter.
 
 ## Features
 
